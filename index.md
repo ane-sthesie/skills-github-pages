@@ -2,4 +2,4 @@
 title: Welcome to my blog!
 ---
 
-Bienvenue 
+Bienvenue, je comprends pas trop comment ça fonctionne
